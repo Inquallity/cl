@@ -1,0 +1,4 @@
+int id generate_user_token 0x0
+int id progress_indicator 0x0
+int id user_token 0x0
+int layout ac_main 0x0

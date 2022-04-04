@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id generate_user_token
+id progress_indicator
+id user_token
+layout ac_main

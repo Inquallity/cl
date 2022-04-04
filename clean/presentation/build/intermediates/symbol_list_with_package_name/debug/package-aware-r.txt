@@ -1,0 +1,5 @@
+com.inq.cleanexample.presentation
+id generate_user_token
+id progress_indicator
+id user_token
+layout ac_main
